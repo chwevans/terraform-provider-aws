@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-aws
+module github.com/chwevans/terraform-provider-aws
 
 go 1.13
 
